@@ -1,0 +1,9 @@
+black
+debugpy
+mypy
+ruff
+pyright
+jupyter
+jupyter_contrib_nbextensions
+
+-r base.txt
