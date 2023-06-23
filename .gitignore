@@ -1,3 +1,6 @@
 __pycache__/
 venv/
+models/
+distilbert-base-uncased-finetuned-emotion/
+notebooks/*.txt*
 .ipynb_checkpoints

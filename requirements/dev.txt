@@ -1,3 +1,6 @@
+-r tensorflow-macos.txt
+-r base.txt
+
 black
 debugpy
 mypy
@@ -5,5 +8,3 @@ ruff
 pyright
 jupyter
 jupyter_contrib_nbextensions
-
--r base.txt
