@@ -6,7 +6,7 @@ some of my own notes as I read through the book and work through the code. Since
 I use an Apple Sillicon computer, I also modified the dependencies to work on M1
 / M2 machines.
 
-## MacOS with M1 or M2 processors
+## Installation for MacOS with M1 or M2 processors
 
 > Assuming Python3 is already installed.
 
